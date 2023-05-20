@@ -4,7 +4,7 @@
 
 export const environment = {
     production: false,
-    apiUrl: 'http://89.208.104.147:3000'
+    apiUrl: 'https://back.sto.monetka.name'
 };
 
 /*
